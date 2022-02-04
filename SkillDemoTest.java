@@ -3,7 +3,7 @@ import org.junit.*;
 
 public class SkillDemoTest {
     @Test 
-    public void addition() {
-        assertEquals(2, SkillDemo.add(1,1)); // this will fail for sure 
+    public void multiply() {
+        assertEquals(2, SkillDemo.multiplication(2,1)); // this will fail for sure 
     }
 }
